@@ -1,4 +1,3 @@
 Name:Sinan
 my name is sinan
 age:17
-linkein: Sinan Manzoor
